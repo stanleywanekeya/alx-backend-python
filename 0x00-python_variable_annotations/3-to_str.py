@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
-"""Module that returns a string representation of float"""
+'''Module for task 3.
+'''
 
 
 def to_str(n: float) -> str:
-    """Returns the string representation of a float"""
-    return str()n
+    '''Cast a floting type number in to a string.
+    '''
+    return str(n)
